@@ -194,7 +194,7 @@ function App() {
                 <div className="inline-flex items-center justify-center mb-6">
                   <Star className="text-yellow-400 animate-spin" size={32} style={{ animationDuration: '3s' }} />
                   <h1 className="text-5xl sm:text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-cyan-300 to-teal-400 mx-4 drop-shadow-2xl">
-                    精品平台
+                    强烈推荐 精品平台
                   
                     
                   </h1>

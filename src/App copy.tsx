@@ -117,7 +117,7 @@ const apps = [
   },
    {
     id: 17,
-    name: "C7娱乐",
+    name: "C7娱乐 ",
     description: "首存100+100",
     iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
     url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",

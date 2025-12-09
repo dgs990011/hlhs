@@ -137,6 +137,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg",
     url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
   },
+     {
+    id: 20,
+    name: "胜天国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
+    url: "https://wcwx.paradisemall.net/app/register.php?site_id=1050&topId=880722&selfPlanId=855049",
+  },
 ];
 
 function App() {

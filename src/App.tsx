@@ -137,8 +137,33 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
     url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },
-     {
+      {
     id: 20,
+    name: "C7娱乐",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/68a570b358cb8da5c83d12f5.jpg",
+    url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
+  },    {
+    id: 21,
+    name: "豪门国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f6.webp",
+    url: "https://nvjmce.hfjcl.com/app/register.php?site_id=1008&topId=2610410",
+  },    {
+    id: 22,
+    name: "28圈",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg",
+    url: "https://156.234.70.2:61106/#/link?allwin=9437468",
+  },    {
+    id: 23,
+    name: "NG28",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
+    url: "https://38.181.23.18:60004/#/link?allwin=22198286",
+  },
+     {
+    id: 24,
     name: "君临国际",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",

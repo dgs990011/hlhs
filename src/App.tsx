@@ -25,6 +25,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg",
     url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
   },
+     {
+    id: 4,
+    name: "君临国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413",
+  },
     {
     id: 4,
     name: "赏金国际",
@@ -122,13 +129,7 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
     url: "https://38.181.23.18:60004/#/link?allwin=22198286",
   },
-     {
-    id: 18,
-    name: "君临国际",
-    description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
-  },
+  
 ];
 
 function App() {

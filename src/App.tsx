@@ -69,9 +69,9 @@ const apps = [
   },
    {
     id: 9,
-    name: "问鼎国际",
+    name: "问鼎娱乐",
     description: "",
-    iconUrl: "https://th.bing.com/th/id/R.3ff55b6d5ae91f929259d3f5fe8ee346?rik=KMsNN8o%2bXu04JQ&riu=http%3a%2f%2fimg.xz7.com%2fup%2fico%2f2024%2f0911%2f1726047132590171.png&ehk=u0ICtB1tC5UuQseS9l1DHMjKl1x8crEE3pggKWNac1Y%3d&risl=&pid=ImgRaw&r=0",
+    iconUrl: "https://pic1.imgdb.cn/item/6984d021312b01a291a7449f.webp",
     url: "https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=21543657",
   },
     {

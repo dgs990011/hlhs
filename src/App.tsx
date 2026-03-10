@@ -131,22 +131,22 @@ const apps = [
   },
      {
     id: 19,
-    name: "赏金国际",
+    name: "大满贯",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
-    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+    iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
+    url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },   {
     id: 20,
-    name: "赏金国际",
+    name: "巅峰国际",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
-    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg",
+    url: "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632",
   },   {
     id: 21,
-    name: "赏金国际",
+    name: "超凡国际",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
-    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
+    url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
   
 ];

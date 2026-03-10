@@ -129,6 +129,31 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
     url: "https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D",
   },
+     {
+    id: 4,
+    name: "赏金国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
+    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+  },   {
+    id: 4,
+    name: "赏金国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
+    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+  },   {
+    id: 4,
+    name: "赏金国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
+    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+  },   {
+    id: 4,
+    name: "赏金国际",
+    description: "",
+    iconUrl: "https://pic1.imgdb.cn/item/688c1d0e58cb8da5c8f69d23.jpg",
+    url: "https://xjvueb.hefaship.com/app/register.php?site_id=1010&topId=3094701",
+  },
   
 ];
 

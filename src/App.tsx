@@ -124,10 +124,10 @@ const apps = [
     url: "https://156.234.70.2:61106/#/link?allwin=9437468",
   },    {
     id: 17,
-    name: "NG28",
+    name: "NG南宫",
     description: "",
     iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
-    url: "https://38.181.23.18:60004/#/link?allwin=22198286",
+    url: "https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D",
   },
   
 ];

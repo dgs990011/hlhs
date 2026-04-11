@@ -13,10 +13,10 @@ const apps = [
   },
      {
     id: 2,
-    name: "星耀国际",
+    name: "汇赢国际",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg",
-    url: "https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066",
+    iconUrl: "https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg",
+    url: "https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918",
   },
        {
     id: 3,

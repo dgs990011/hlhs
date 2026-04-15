@@ -148,7 +148,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
     url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
-
+  {
+    id: 2,
+    name: "梦想国际",
+    description: "",
+    iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
+    url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
+  },
   
 ];
 

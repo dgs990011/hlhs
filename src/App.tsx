@@ -64,7 +64,7 @@ const apps = [
     id: 10,
     name: "问鼎娱乐",
     description: "",
-    iconUrl: "https://pic1.imgdb.cn/item/6984d021312b01a291a7449f.webp",
+    iconUrl: "https://i.postimg.cc/FR5hjNf0/wen-ding-guo-ji.webp",
     url: "https://onkrcy.hefaship.com/app/register.php?site_id=1020&topId=21543657",
   },
     {

@@ -135,7 +135,13 @@ const apps = [
     iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
     url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
   },
-  
+    { 
+    id: 23, 
+    name: "领航国际", 
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
+    url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
+  },
 ];
 
 function App() {

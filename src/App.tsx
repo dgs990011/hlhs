@@ -149,6 +149,13 @@ const apps = [
       iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
        url: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
     }, 
+             {
+      id: 1,
+      name: '聚鑫汇',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
+       Url: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
+    }, 
 ];
 
 function App() {

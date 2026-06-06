@@ -156,6 +156,13 @@ const apps = [
       iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
        Url: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
     }, 
+       { 
+    id: 1, 
+    name: "龙腾国际",
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
+    url: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+  },
 ];
 
 function App() {
